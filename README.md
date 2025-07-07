@@ -23,7 +23,7 @@
 ## 📦 Installation
 
 ```bash
-git clone https://your-repo-url.git
+git clone https://github.com/ashardian/PayloadForge.git
 cd PayloadForge
 pip install -r requirements.txt  # (Only 'requests' is needed)
 ```
